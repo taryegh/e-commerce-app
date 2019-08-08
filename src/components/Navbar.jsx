@@ -9,7 +9,8 @@ export default class Navbar extends Component {
     return (
       <NavWrapper className="navbar navbar-expand-sm navbar-dark px-sm-5">
         <Link to="/">
-          <img src={logo} alt="" className="navbar-brand" />
+          {/* <img src={logo} alt="" className="navbar-brand" /> */}
+          <i className="icon ion-md-laptop" />
         </Link>
 
         <ul className="navbar-nav align-items-center">
@@ -21,7 +22,7 @@ export default class Navbar extends Component {
         </ul>
 
         <Link to="/cart" className="ml-auto">
-          <ButtonContainer>
+          <ButtonContainer className='nav-btn'>
             <span className="mr-2">
               <i className="icon ion-md-cart" />
             </span>
@@ -34,7 +35,7 @@ export default class Navbar extends Component {
 }
 
 const NavWrapper = styled.nav`
-background:var(--mainBlue);
+background: #2f3542;
 .nav-link {
   color: var(--mainWhite)!important;
   font-size: 1.3rem;

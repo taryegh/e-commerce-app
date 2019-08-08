@@ -1,19 +1,28 @@
 :root {
   --mainBlue: #2a2a72;
   --lightBlue: #009ffd;
-  --mainWhite: #f3f3f3;
+  --mainWhite: #fbfbfb;
   --mainDark: #232528;
   --mainYellow: #ffa400;
+
+
 }
 
 body {
-  font-family: "Oswald", sans-serif !important;
-  background: var(--mainWhite) !important;
+  background: white !important;
+  font-family: 'Roboto', sans-serif !important;
   color: var(--mainDark) !important;
 }
 
+.main-title {
+  color: #10ac84
+}
+
+.main-title-second {
+  color: #0a3d62;
+}
+
 .text-title {
-  font-family: "Permanent Marker", cursive;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }
@@ -24,4 +33,25 @@ body {
 
 .text-bright {
   color: var(--lightBlue);
+}
+
+.ion-md-laptop {
+  color: var(--mainWhite);
+  font-size: 32px;
+}
+
+.ion-md-laptop:hover {
+  color: wheat;
+}
+
+.nav-btn {
+  background-color: rgb(41, 175, 23) !important;
+  color: white !important;
+  border-color:  rgb(41, 175, 23) !important;
+}
+
+.nav-btn:hover{
+  background-color: white !important;
+  color: rgb(41, 175, 23) !important;
+  border-color:  white !important;
 }
