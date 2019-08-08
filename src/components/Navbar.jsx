@@ -24,7 +24,7 @@ export default class Navbar extends Component {
         <Link to="/cart" className="ml-auto">
           <ButtonContainer className='nav-btn'>
             <span className="mr-2">
-              <i className="icon ion-md-cart" />
+              <i className="icon ion-ios-cart" />
             </span>
             my cart
           </ButtonContainer>

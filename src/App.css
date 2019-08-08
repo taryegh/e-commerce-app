@@ -3,7 +3,7 @@
   --lightBlue: #009ffd;
   --mainWhite: #fbfbfb;
   --mainDark: #232528;
-  --mainYellow: #ffa400;
+  --mainYellow: #ffb142;
 
 
 }
@@ -41,7 +41,7 @@ body {
 }
 
 .ion-md-laptop:hover {
-  color: wheat;
+  color: rgb(194, 194, 194);
 }
 
 .nav-btn {
