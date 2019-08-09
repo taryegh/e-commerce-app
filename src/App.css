@@ -1,25 +1,18 @@
 :root {
-  --mainBlue: #2a2a72;
+  --mainBlue: #0a3d62;
   --lightBlue: #009ffd;
-  --mainWhite: #fbfbfb;
-  --mainDark: #232528;
+  --mainWhite: #f5f6fa;
+  --secondWhite: #dcdde1;
+  --mainDark: #222f3e;
   --mainYellow: #ffb142;
-
-
+  --mainGreen: #10ac84;
+  --lightGreen: #44bd32;
 }
 
 body {
   background: white !important;
-  font-family: 'Lato', sans-serif !important;
+  font-family: "Lato", sans-serif !important;
   color: var(--mainDark) !important;
-}
-
-.main-title {
-  color: #10ac84;
-}
-
-.main-title-second {
-  color: #0a3d62;
 }
 
 .text-title {
@@ -35,23 +28,32 @@ body {
   color: var(--lightBlue);
 }
 
+/* ---------------- */
+/* -- SPECIFICS -- */
+.main-title {
+  color: var(--mainGreen);
+}
+
+.main-title-second {
+  color: #0a3d62;
+}
+
 .ion-md-laptop {
   color: var(--mainWhite);
   font-size: 32px;
 }
 
 .ion-md-laptop:hover {
-  color: rgb(194, 194, 194);
+  color: var(--secondWhite);
 }
 
 .nav-btn {
-  background-color: rgb(41, 175, 23) !important;
+  background-color: var(--lightGreen) !important;
   color: white !important;
-  border-color:  rgb(41, 175, 23) !important;
+  border-color: transparent !important;
 }
 
-.nav-btn:hover{
+.nav-btn:hover {
   background-color: white !important;
-  color: rgb(41, 175, 23) !important;
-  border-color:  white !important;
+  color: var(--lightGreen) !important;
 }

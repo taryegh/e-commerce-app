@@ -14,15 +14,15 @@ export default class Navbar extends Component {
         </Link>
 
         <ul className="navbar-nav align-items-center">
-          <li className="nav-item ml-5">
+          <li className="nav-item ml-5 ">
             <Link to="/" className="nav-link">
-              products
+              laptops
             </Link>
           </li>
         </ul>
 
         <Link to="/cart" className="ml-auto">
-          <ButtonContainer className='nav-btn'>
+          <ButtonContainer className="nav-btn">
             <span className="mr-2">
               <i className="icon ion-ios-cart" />
             </span>
@@ -35,10 +35,13 @@ export default class Navbar extends Component {
 }
 
 const NavWrapper = styled.nav`
-background: #2f3542;
-.nav-link {
-  color: var(--mainWhite)!important;
-  font-size: 1.3rem;
-  text-transform: capitalize;
-}
-`
+  background: var(--mainDark);
+  .nav-link {
+    color: var(--mainWhite) !important;
+    font-size: 1.3rem;
+    text-transform: capitalize;
+  }
+  .nav-link:hover {
+    color: var(--secondWhite) !important;
+  }
+`;
