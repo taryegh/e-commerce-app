@@ -16,6 +16,7 @@ class ProductProvider extends Component {
     this.setProducts();
   }
 
+  // Deriving data, cloning and setting to state
   setProducts = () => {
     let tempProducts = [];
     storeProducts.forEach(item => {
