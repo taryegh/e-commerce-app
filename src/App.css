@@ -58,3 +58,12 @@ body {
   background-color: white !important;
   color: var(--lightGreen) !important;
 }
+
+.card-footer {
+  border-radius: 0 !important;
+}
+
+.incart-p {
+  font-size: 22px !important;
+  color: var(--mainBlue);
+}

@@ -25,7 +25,7 @@ export default class Product extends Component {
                   onClick={() => value.addToCart(id)}
                 >
                   {inCart ? (
-                    <p className="text-capitalize mb-0" disabled>
+                    <p className="text-capitalize mb-0 incart-p" disabled>
                       in cart
                     </p>
                   ) : (
