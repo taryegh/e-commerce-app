@@ -74,10 +74,10 @@ const ProductWrapper = styled.div`
   &:hover {
     .card {
       box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.2);
-      border: 4px solid #b1cad3;
+      border: 4px solid var(--lightDark);
     }
     .card-footer {
-      background: #b1cad3;
+      background: var(--lightDark);
     }
   }
 
