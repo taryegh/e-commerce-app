@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { storeProducts, detailProduct } from "./data";
-import { jsxClosingElement } from "@babel/types";
 
 const ProductContext = React.createContext();
 // Provider
@@ -10,10 +9,10 @@ class ProductProvider extends Component {
   state = {
     products: [],
     detailProduct: detailProduct,
-    cart: storeProducts,
+    cart: [],
     modalOpen: false,
     modalProduct: detailProduct,
-    cardSubtotal: 0,
+    cartSubtotal: 0,
     cartTax: 0,
     cartTotal: 0
   };
