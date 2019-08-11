@@ -55,7 +55,7 @@ export default function CartItem({ item, value }) {
             removeItem(id);
           }}
         >
-          <i className="icon ion-ios-trash" />
+          <i className="icon ion-ios-close" />
         </div>
       </div>
 
