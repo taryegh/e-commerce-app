@@ -58,7 +58,9 @@ class ProductProvider extends Component {
       () => {
         return { products: tempProducts, cart: [...this.state.cart, product] };
       },
-      () => console.log(this.state)
+      () => {
+        this.addTotals();
+      }
     );
   };
 
@@ -92,7 +94,18 @@ class ProductProvider extends Component {
   };
 
   addTotals = () => {
-    console.log("add");
+    let subTotal = 0;
+    this.state.cart.map(item => (subTotal += item.total));
+    const tax = +(subTotal * 0.2).toFixed(2);
+    const total = subTotal + tax;
+
+    this.setState(() => {
+      return {
+        cartSubtotal: subTotal,
+        cartTax: tax,
+        cartTotal: total
+      };
+    });
   };
 
   render() {
