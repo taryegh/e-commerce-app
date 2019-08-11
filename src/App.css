@@ -92,3 +92,7 @@ body {
 .cart-title {
   margin-top: 200px !important;
 }
+
+.ion-ios-close {
+  font-size: 30px;
+}

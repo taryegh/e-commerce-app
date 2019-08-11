@@ -23,7 +23,11 @@ export default class Cart extends Component {
                 </div>
               );
             } else {
-              return <EmptyCart />;
+              return (
+                <div className="py-5">
+                  <EmptyCart />
+                </div>
+              );
             }
           }}
         </ProductConsumer>
