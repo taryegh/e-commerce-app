@@ -10,7 +10,7 @@ class ProductProvider extends Component {
   state = {
     products: [],
     detailProduct: detailProduct,
-    cart: [],
+    cart: storeProducts,
     modalOpen: false,
     modalProduct: detailProduct,
     cardSubtotal: 0,
@@ -103,6 +103,7 @@ class ProductProvider extends Component {
           closeModal: this.closeModal,
           increment: this.increment,
           decrement: this.decrement,
+          removeItem: this.removeItem,
           clearCart: this.clearCart
         }}
       >
