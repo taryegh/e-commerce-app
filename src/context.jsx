@@ -91,6 +91,10 @@ class ProductProvider extends Component {
     console.log("cart cleared");
   };
 
+  addTotals = () => {
+    console.log("add");
+  };
+
   render() {
     return (
       <ProductContext.Provider
