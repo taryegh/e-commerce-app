@@ -5,8 +5,6 @@ export default function CartList(props) {
   const { value } = props;
   const { cart } = props.value;
 
-  console.log(value, cart);
-
   return (
     <div className="container-fluid">
       {cart.map(item => {
