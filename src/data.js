@@ -6,7 +6,7 @@ export const storeProducts = [
     price: 20,
     company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "With the latest Intel Core processors, MacBook Pro reaches new heights in compute performance. The 15‑inch model now features a ninth-generation 8-core Intel Core i9 processor that reaches Turbo Boost speeds up to 5.0GHz. This gives 3D graphics apps like Autodesk Maya up to 40 percent faster render speeds compared with the previous-generation 6-core processor and up to 2x faster render speeds than a quad-core processor.",
     inCart: false,
     count: 0,
     total: 0
