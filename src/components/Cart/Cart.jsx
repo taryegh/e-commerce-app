@@ -15,11 +15,11 @@ export default class Cart extends Component {
             const { cart } = value;
             if (cart.length > 0) {
               return (
-                <div className="py-5">
+                <div className="py-5 cart-page ">
                   <Title name="my" title="cart" />
                   <CartColumns />
                   <CartList value={value} />
-                  <CartTotals value={value} history={this.props.history}/>
+                  <CartTotals value={value} history={this.props.history} />
                 </div>
               );
             } else {

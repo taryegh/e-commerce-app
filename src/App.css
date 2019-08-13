@@ -103,3 +103,8 @@ body {
   font-size: 20rem;
   color: var(--secondWhite);
 }
+
+.cart-page {
+  margin-bottom: 25rem;
+}
+
