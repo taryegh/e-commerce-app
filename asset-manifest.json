@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/e-commerce/static/css/main.4f1d15a1.chunk.css",
-    "main.js": "/e-commerce/static/js/main.26d543c0.chunk.js",
-    "main.js.map": "/e-commerce/static/js/main.26d543c0.chunk.js.map",
-    "runtime~main.js": "/e-commerce/static/js/runtime~main.8575550b.js",
-    "runtime~main.js.map": "/e-commerce/static/js/runtime~main.8575550b.js.map",
-    "static/css/2.266e55a5.chunk.css": "/e-commerce/static/css/2.266e55a5.chunk.css",
-    "static/js/2.b23faa94.chunk.js": "/e-commerce/static/js/2.b23faa94.chunk.js",
-    "static/js/2.b23faa94.chunk.js.map": "/e-commerce/static/js/2.b23faa94.chunk.js.map",
-    "index.html": "/e-commerce/index.html",
-    "precache-manifest.5cd28cc8bed0c0598ec2dd7d8bb14630.js": "/e-commerce/precache-manifest.5cd28cc8bed0c0598ec2dd7d8bb14630.js",
-    "service-worker.js": "/e-commerce/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/e-commerce/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.4f1d15a1.chunk.css.map": "/e-commerce/static/css/main.4f1d15a1.chunk.css.map"
+    "main.css": "/e-commerce-react/static/css/main.4f1d15a1.chunk.css",
+    "main.js": "/e-commerce-react/static/js/main.aadef793.chunk.js",
+    "main.js.map": "/e-commerce-react/static/js/main.aadef793.chunk.js.map",
+    "runtime~main.js": "/e-commerce-react/static/js/runtime~main.d83870d1.js",
+    "runtime~main.js.map": "/e-commerce-react/static/js/runtime~main.d83870d1.js.map",
+    "static/css/2.266e55a5.chunk.css": "/e-commerce-react/static/css/2.266e55a5.chunk.css",
+    "static/js/2.f189e798.chunk.js": "/e-commerce-react/static/js/2.f189e798.chunk.js",
+    "static/js/2.f189e798.chunk.js.map": "/e-commerce-react/static/js/2.f189e798.chunk.js.map",
+    "index.html": "/e-commerce-react/index.html",
+    "precache-manifest.304752a6d7d8320442ef36dcef43bff0.js": "/e-commerce-react/precache-manifest.304752a6d7d8320442ef36dcef43bff0.js",
+    "service-worker.js": "/e-commerce-react/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/e-commerce-react/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.4f1d15a1.chunk.css.map": "/e-commerce-react/static/css/main.4f1d15a1.chunk.css.map"
   }
 }
