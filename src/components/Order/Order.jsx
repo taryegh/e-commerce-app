@@ -22,8 +22,6 @@ export default class Order extends Component {
     };
   }
 
-  
-
   handleChangeModel = e => {
     this.setState({
       model: e.target.value
