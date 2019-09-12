@@ -108,3 +108,11 @@ body {
   margin-bottom: 25rem;
 }
 
+.show-latest {
+  margin-top: 5rem;
+  color: var(--mainBlue);
+}
+
+.fa-caret-square-down {
+  cursor: pointer;
+}
