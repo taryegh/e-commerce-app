@@ -1,16 +1,11 @@
 import React, { Component } from "react";
-import { ProductConsumer } from "../../context";
 import Title from "../Title";
 import OrderInput from "./OrderInput";
 import OrderList from "./OrderList";
-// import { DB_CONFIG } from "../Config/config";
-// import firebase from "firebase/app";
 
 export default class Order extends Component {
   constructor(props) {
     super(props);
-
-    // this.app = firebase.initializeApp(DB_CONFIG);
 
     this.state = {
       orders: [],

@@ -6,7 +6,7 @@ export const storeProducts = [
     price: 20,
     company: "APPLE",
     info:
-      "With the latest Intel Core processors, MacBook Pro reaches new heights in compute performance. The 15‑inch model now features a ninth-generation 8-core Intel Core i9 processor that reaches Turbo Boost speeds up to 5.0GHz. This gives 3D graphics apps like Autodesk Maya up to 40 percent faster render speeds compared with the previous-generation 6-core processor and up to 2x faster render speeds than a quad-core processor.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt convallis est sed convallis. Morbi dui mi, convallis nec tempus vitae, vulputate vitae magna. Vivamus bibendum eu mi a finibus. Aliquam quis tortor sed erat pulvinar auctor ac vitae urna. Pellentesque at scelerisque nulla. Proin at sollicitudin odio. Nam eu velit sed elit pellentesque ultrices ut at nisi. Nullam magna velit, luctus vel erat a, rhoncus pellentesque magna. Pellentesque laoreet arcu ut velit porttitor, vitae lacinia lacus congue.",
     inCart: false,
     count: 0,
     total: 0
@@ -18,7 +18,7 @@ export const storeProducts = [
     price: 10,
     company: "DELL",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt convallis est sed convallis. Morbi dui mi, convallis nec tempus vitae, vulputate vitae magna. Vivamus bibendum eu mi a finibus. Aliquam quis tortor sed erat pulvinar auctor ac vitae urna. Pellentesque at scelerisque nulla. Proin at sollicitudin odio. Nam eu velit sed elit pellentesque ultrices ut at nisi. Nullam magna velit, luctus vel erat a, rhoncus pellentesque magna. Pellentesque laoreet arcu ut velit porttitor, vitae lacinia lacus congue.",
     inCart: false,
     count: 0,
     total: 0
@@ -30,7 +30,7 @@ export const storeProducts = [
     price: 8,
     company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt convallis est sed convallis. Morbi dui mi, convallis nec tempus vitae, vulputate vitae magna. Vivamus bibendum eu mi a finibus. Aliquam quis tortor sed erat pulvinar auctor ac vitae urna. Pellentesque at scelerisque nulla. Proin at sollicitudin odio. Nam eu velit sed elit pellentesque ultrices ut at nisi. Nullam magna velit, luctus vel erat a, rhoncus pellentesque magna. Pellentesque laoreet arcu ut velit porttitor, vitae lacinia lacus congue.",
     inCart: false,
     count: 0,
     total: 0
@@ -42,7 +42,7 @@ export const storeProducts = [
     price: 32,
     company: "HP",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt convallis est sed convallis. Morbi dui mi, convallis nec tempus vitae, vulputate vitae magna. Vivamus bibendum eu mi a finibus. Aliquam quis tortor sed erat pulvinar auctor ac vitae urna. Pellentesque at scelerisque nulla. Proin at sollicitudin odio. Nam eu velit sed elit pellentesque ultrices ut at nisi. Nullam magna velit, luctus vel erat a, rhoncus pellentesque magna. Pellentesque laoreet arcu ut velit porttitor, vitae lacinia lacus congue.",
     inCart: false,
     count: 0,
     total: 0
@@ -54,7 +54,7 @@ export const storeProducts = [
     price: 12,
     company: "HP",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt convallis est sed convallis. Morbi dui mi, convallis nec tempus vitae, vulputate vitae magna. Vivamus bibendum eu mi a finibus. Aliquam quis tortor sed erat pulvinar auctor ac vitae urna. Pellentesque at scelerisque nulla. Proin at sollicitudin odio. Nam eu velit sed elit pellentesque ultrices ut at nisi. Nullam magna velit, luctus vel erat a, rhoncus pellentesque magna. Pellentesque laoreet arcu ut velit porttitor, vitae lacinia lacus congue.",
     inCart: false,
     count: 0,
     total: 0
@@ -66,7 +66,7 @@ export const storeProducts = [
     price: 21,
     company: "HP",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt convallis est sed convallis. Morbi dui mi, convallis nec tempus vitae, vulputate vitae magna. Vivamus bibendum eu mi a finibus. Aliquam quis tortor sed erat pulvinar auctor ac vitae urna. Pellentesque at scelerisque nulla. Proin at sollicitudin odio. Nam eu velit sed elit pellentesque ultrices ut at nisi. Nullam magna velit, luctus vel erat a, rhoncus pellentesque magna. Pellentesque laoreet arcu ut velit porttitor, vitae lacinia lacus congue.",
     inCart: false,
     count: 0,
     total: 0
@@ -78,7 +78,7 @@ export const storeProducts = [
     price: 30,
     company: "LENOVO",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt convallis est sed convallis. Morbi dui mi, convallis nec tempus vitae, vulputate vitae magna. Vivamus bibendum eu mi a finibus. Aliquam quis tortor sed erat pulvinar auctor ac vitae urna. Pellentesque at scelerisque nulla. Proin at sollicitudin odio. Nam eu velit sed elit pellentesque ultrices ut at nisi. Nullam magna velit, luctus vel erat a, rhoncus pellentesque magna. Pellentesque laoreet arcu ut velit porttitor, vitae lacinia lacus congue.",
     inCart: false,
     count: 0,
     total: 0
@@ -90,7 +90,7 @@ export const storeProducts = [
     price: 24,
     company: "Dell",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt convallis est sed convallis. Morbi dui mi, convallis nec tempus vitae, vulputate vitae magna. Vivamus bibendum eu mi a finibus. Aliquam quis tortor sed erat pulvinar auctor ac vitae urna. Pellentesque at scelerisque nulla. Proin at sollicitudin odio. Nam eu velit sed elit pellentesque ultrices ut at nisi. Nullam magna velit, luctus vel erat a, rhoncus pellentesque magna. Pellentesque laoreet arcu ut velit porttitor, vitae lacinia lacus congue.",
     inCart: false,
     count: 0,
     total: 0
@@ -104,7 +104,7 @@ export const detailProduct = {
   price: 20,
   company: "APPLE",
   info:
-    "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt convallis est sed convallis. Morbi dui mi, convallis nec tempus vitae, vulputate vitae magna. Vivamus bibendum eu mi a finibus. Aliquam quis tortor sed erat pulvinar auctor ac vitae urna. Pellentesque at scelerisque nulla. Proin at sollicitudin odio. Nam eu velit sed elit pellentesque ultrices ut at nisi. Nullam magna velit, luctus vel erat a, rhoncus pellentesque magna. Pellentesque laoreet arcu ut velit porttitor, vitae lacinia lacus congue.",
   inCart: false,
   count: 0,
   total: 0
